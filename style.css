@@ -1,0 +1,19 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul,ol,li {
+    background-color: aqua;
+    font-weight: lighter;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-weight: 800;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
